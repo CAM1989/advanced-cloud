@@ -1,6 +1,5 @@
 package com.flamexander.cloud.service.product;
 
-import com.flamexander.cloud.common.ProductDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
